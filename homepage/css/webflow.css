@@ -895,6 +895,17 @@ textarea.w-select {
   border-width: 4px;
   margin-left: -4px;
 }
+
+.link-4, .link-3, .link-2{
+  color:#A5674F;
+  text-decoration: none;
+}
+.link{
+  color:#ffffff;
+  text-decoration: none;
+}
+
+
 .w-widget-twitter-count-shim.w--vertical .w-widget-twitter-count-inner {
   font-size: 18px;
   line-height: 22px;
